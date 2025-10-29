@@ -265,7 +265,7 @@ module.exports = router;
 
 ### API Documentation
 
-API Endpoint အချက်အလက်များကို အသေးစိတ် သိရှိလိုပါက [docs/api/README.md](https://www.google.com/search?q=docs/api/README.md) တွင် ဖတ်ရှုနိုင်ပါသည်။
+API Endpoint အချက်အလက်များကို အသေးစိတ် သိရှိလိုပါက [docs/api/README.md](./api/README.md) တွင် ဖတ်ရှုနိုင်ပါသည်။
 
 ### 🚀 Deployment (Production)
 
@@ -287,11 +287,11 @@ pm2 save
 
 ## 🤝 Contributing
 
-ဤပရောဂျက်တွင် ပူးပေါင်းပါဝင်လိုပါက [CONTRIBUTING.md](https://www.google.com/search?q=CONTRIBUTING.md) တွင် ဖော်ပြထားသော လမ်းညွှန်ချက်များကို ဖတ်ရှုပြီး Pull Request ပေးပို့နိုင်ပါသည်။
+ဤပရောဂျက်တွင် ပူးပေါင်းပါဝင်လိုပါက [CONTRIBUTING.md](../CONTRIBUTING.md) တွင် ဖော်ပြထားသော လမ်းညွှန်ချက်များကို ဖတ်ရှုပြီး Pull Request ပေးပို့နိုင်ပါသည်။
 
 ## 📄 License
 
-ဤပရောဂျက်ကို **MIT License** ဖြင့် ထုတ်ဝေထားပါသည်။ အသေးစိတ်ကို [LICENSE.md](LICENSE.md) တွင် ကြည့်ရှုပါ။
+ဤပရောဂျက်ကို **MIT License** ဖြင့် ထုတ်ဝေထားပါသည်။ အသေးစိတ်ကို [LICENSE.md](../LICENSE.md) တွင် ကြည့်ရှုပါ။
 
 ## 🙏 Acknowledgments
 
