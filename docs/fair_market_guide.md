@@ -291,7 +291,7 @@ pm2 save
 
 ## 📄 License
 
-ဤပရောဂျက်ကို **MIT License** ဖြင့် ထုတ်ဝေထားပါသည်။ အသေးစိတ်ကို [LICENSE.md](../LICENSE.md) တွင် ကြည့်ရှုပါ။
+ဤပရောဂျက်ကို **MIT License** ဖြင့် ထုတ်ဝေထားပါသည်။ အသေးစိတ်ကို [LICENSE.md](../LICENSE) တွင် ကြည့်ရှုပါ။
 
 ## 🙏 Acknowledgments
 
